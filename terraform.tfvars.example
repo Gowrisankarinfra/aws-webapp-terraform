@@ -1,0 +1,5 @@
+aws_region         = "ap-south-1"
+project_name       = "gowri-web-lab"
+availability_zones = ["ap-south-1a", "ap-south-1b"]
+ami_id             = "ami-REPLACE_WITH_VALID_AMI_ID"
+instance_type      = "t3.micro"
